@@ -2,4 +2,4 @@
 
 ##鸡血优化
 
-bash <(curl -Ls https://github.com/lanziii/bbr-/releases/download/123/tools.sh)
+bash <(curl -Ls https://github.com/tansong857/bbr/releases/download/BBR/tools.sh)
